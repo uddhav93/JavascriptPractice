@@ -1,0 +1,2 @@
+# JavascriptPractice
+This repository contains JavaScript programs created for daily practice and learning. Topics include variables, operators, loops, functions, arrays, objects, strings, ES6 features, asynchronous programming, and algorithmic problem-solving.
