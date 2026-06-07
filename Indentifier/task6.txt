@@ -1,0 +1,8 @@
+function isValid()
+{
+    let 123name=0;
+    console.log(123name)
+}
+idValid();
+this method or approch is not valid as it violates rules of identifier  
+Identifier should start with text or special characters like _ or $ 

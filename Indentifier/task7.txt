@@ -1,0 +1,2 @@
+for is not a valid identifier as it is a keyword which is a reserved word with its own meaning 
+If its written with any other word which is not a keyword then it could become identifier like for_num,forStr etc. 
